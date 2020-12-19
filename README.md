@@ -1,5 +1,5 @@
 # Face-Recognition-program-using-Open-CV-and-Python
-This is a face recognition program using open cv and python
+This is a face recognition program using Open CV and Python
 
 For using this program follow the steps below:
 Step 1. Take photos of some faces(you can use your's).
